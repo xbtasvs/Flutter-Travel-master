@@ -6,6 +6,9 @@ Flutter representation of a Travel App Concept i found in Uplabs.
 
 Star⭐ the repo if you like what you see😉.
 
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+><a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+> * [PayPal](https://www.paypal.me/EireHauler)
 
 Images are from [Unsplash](https://unsplash.com)
 ## 📸 ScreenShots
@@ -30,8 +33,7 @@ The App's theme adapts to your device's theme
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+
 
 
 ## Getting Started
@@ -48,5 +50,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## LICENCE
-[WTFPL](http://www.wtfpl.net/about/)
